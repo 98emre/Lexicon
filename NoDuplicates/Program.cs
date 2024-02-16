@@ -10,6 +10,7 @@ namespace NoDuplicates {
             Console.WriteLine("Application Started");
             //Console.WriteLine(CheckForDuplicates("THE RAIN IN SPAIN"));
             //Console.WriteLine(CheckForDuplicates("IN THE RAIN AND THE SNOW"));
+            //Console.WriteLine(CheckForDuplicates("THE RAIN IN SPAIN IN THE PLAIN"));
 
             string input = Console.ReadLine().ToUpper();
 
