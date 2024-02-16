@@ -1,0 +1,15 @@
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\bin\Debug\net8.0\NoDuplicates.exe
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\bin\Debug\net8.0\NoDuplicates.deps.json
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\bin\Debug\net8.0\NoDuplicates.runtimeconfig.json
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\bin\Debug\net8.0\NoDuplicates.dll
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\bin\Debug\net8.0\NoDuplicates.pdb
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\NoDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\NoDuplicates.AssemblyInfoInputs.cache
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\NoDuplicates.AssemblyInfo.cs
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\NoDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\NoDuplicates.sourcelink.json
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\NoDuplicates.dll
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\refint\NoDuplicates.dll
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\NoDuplicates.pdb
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\NoDuplicates.genruntimeconfig.cache
+C:\Users\emre-\OneDrive\Dokument\GitHub\Lexicon\noduplicates\obj\Debug\net8.0\ref\NoDuplicates.dll
