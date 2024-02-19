@@ -1,7 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+
 
 namespace NoDuplicates {
-
 
     class Program {
 
@@ -19,8 +20,13 @@ namespace NoDuplicates {
                 return;
             }
             
-            Console.WriteLine(CheckForDuplicates(input) ? "no" : "yes");
+            if (CheckForDuplicates(input)){
+                Console.WriteLine("no"); 
+            }
 
+            else{
+                Console.WriteLine("yes");
+            }
         }
 
         static bool CheckForDuplicates(string input) {
